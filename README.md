@@ -1,3 +1,5 @@
+Download the zip file, extract it, then go to Mandelbrot/src and double click mandelbrot.exe to run the program.
+
 Here's the list of all the available inputs:
   - Hold and drag your left mouse to move around the plane.
   - Hold and drag your right mouse to move the currently selected point (just a complex number that can be used to calculate the next iteration, such as the c value in the Julia Set).
