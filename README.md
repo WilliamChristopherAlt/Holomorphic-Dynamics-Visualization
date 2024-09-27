@@ -10,7 +10,7 @@ Here's the list of all the available inputs:
   - Press X to flip the horizontal axis.
   - Press Y to flip the vertical axis.
   - Press P to switch from and to parameter space(e.g. Mandelbrot vs Julia).
-  - Press S to take a screenshot.
+  - Press S to take a screenshot, images are saved at the Images folder.
   - Press Ctrl + a number to change the selected point.
 
 The program holds an array of selected points, you may change the size of this array in the source code. The points in the array may be used in the shader to calculate the next iteration.
